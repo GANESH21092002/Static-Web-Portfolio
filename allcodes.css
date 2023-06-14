@@ -1,0 +1,1964 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.apfti {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/943/946/non_2x/material-design-background-abstract-creative-concept-layout-template-overlapping-geometric-shapes-for-web-wallpaper-or-etc-vector.jpg");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
+
+.apfh1 {
+    color: white;
+    font-family: "Bree Serif";
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.apfp1 {
+    color: white;
+    font-family: "Bree Serif";
+    margin-left: 35px;
+    font-size: 15px;
+
+}
+
+.apfp2 {
+    color: white;
+    font-family: "Bree Serif";
+    margin-left: 70px;
+    font-size: 15px;
+}
+
+.apfp3 {
+    color: white;
+    font-family: "Bree Serif";
+    margin-left: 105px;
+    font-size: 15px;
+}
+
+.apfp4 {
+    color: white;
+    font-family: "Bree Serif";
+    margin-left: 140px;
+    font-size: 15px;
+}
+
+.apfp5 {
+    color: white;
+    font-family: "Bree Serif";
+    margin-left: 175px;
+    font-size: 15px;
+}
+
+.btntd0 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/advanced-technologies-img.png");
+    background-size: cover;
+    height: 120px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.cred {
+    background-color: red;
+    height: 50vh;
+    width: 100vw;
+}
+
+.hred {
+    color: #abedc8;
+    margin-top: 10vh;
+}
+
+.ired {
+    height: 175px;
+    width: 155px;
+    border-radius: 10px;
+    background-size: cover;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin: 25px;
+}
+
+.hbred {
+    margin-left: 10px;
+}
+
+.cgreen {
+    background-color: #abedc8;
+    height: 50vh;
+    width: 100vw;
+}
+
+.hgreen {
+    color: red;
+    margin-top: 10vh;
+
+}
+
+.igreen {
+    height: 175px;
+    width: 155px;
+    border-radius: 10px;
+    background-size: cover;
+    margin-left: 25px;
+    margin-top: 20px;
+    margin: 25px;
+}
+
+.backtdl {}
+
+.cp1mleft {
+    text-align: left;
+    font-weight: bold;
+}
+
+.cp1roboto {
+    font-family: "Roboto";
+}
+
+.cp1pone {
+    text-align: center;
+}
+
+.cp1ptwo {
+    text-align: left;
+    font-family: "Koboto";
+}
+
+.cp1button {
+    border-color: orange;
+}
+
+.cp1card {
+    height: 130vh;
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    color: white;
+    font-family: "Roboto";
+    background-size: cover;
+}
+
+.cp1lline {
+    text-decoration: underline;
+    font-size: 10px;
+}
+
+.cp2bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+
+.cp2person-name {
+    text-align: center;
+    color: #ffffff;
+    background-color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    padding: 18px;
+}
+
+.cp2messages-container {
+    padding: 20px;
+}
+
+.cp2message-text {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding: 14px;
+}
+
+.cp2message-received {
+    background-color: #52606d;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.cp2message-sent {
+    text-align: right;
+    background-color: #47a3f3;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.cp3background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+    border-width: 20px;
+}
+
+.cp3code-card {
+    text-align: left;
+    font-size: 40px;
+    font-family: "Bree Serif";
+    color: white;
+    padding: 50px;
+    background-color: #00000080;
+    border-width: 5px;
+    border-color: #48ee59;
+    border-style: solid;
+
+}
+
+.card-container {
+    border: 20px;
+}
+
+.carda {
+    text-align: center;
+}
+
+.cp4background {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.cp4ccr {
+    background-color: #f6c56e;
+    padding: 20px;
+    color: #323f4b;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.cp4ch {
+    font-family: "Bree Serif";
+}
+
+.cp4cp {
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.cp4cb {
+    font-family: "Roboto";
+    font-size: 10px;
+    padding: 10px;
+    border-width: 0px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: #ffffff;
+    width: 120px;
+    font-weight: bold;
+
+}
+
+.cp51backgroundv {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp51vcr {
+    background-color: #ffffff;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.cp51vh {
+    color: #5752ab;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+}
+
+.cp51vp {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.cp51b1 {
+    color: #171f46;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border-color: #d7dfe9;
+    font-family: "Roboto";
+    font-size: 10px;
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.cp51vb2 {
+    color: #ffffff;
+    background-color: #5752ab;
+    border-radius: 6px;
+    font-family: "Roboto";
+    font-size: 10px;
+    border-width: 0px;
+    margin-left: 10px;
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.cp52backgroundn {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp52ncr {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.cp52nh {
+    color: #7b8794;
+    font-size: 10px;
+    font-family: "Roboto";
+}
+
+.cp52np1 {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.cp52np2 {
+    color: #323f4b;
+    font-size: 10px;
+    font-family: "Roboto";
+}
+
+.cp52nb {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 10px;
+    font-family: "Roboto";
+}
+
+.cp61background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp61ccr {
+    background-color: #000000e6;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.cp61ccrr {
+    background-color: #ffffff;
+    margin: 5px;
+    width: 50px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+.cp61ch {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.cp61cp1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.cp61cp2 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.cp61cb {
+    font-family: "Roboto";
+    border-width: 0px;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+}
+
+.cp62background1 {
+    background-color: #fb4e71;
+    height: 30vh;
+}
+
+.cp62background2 {
+    background-color: #e6f6ff;
+    height: 70vh;
+    padding: 10px;
+}
+
+.cp62ccrt {
+    color: #ffffff;
+}
+
+.cp62cht {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.cp62cpt {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.cp62ccrti {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/klrahul-img1.png");
+}
+
+.cp62c21 {
+    height: 90px;
+    margin: 1px;
+}
+
+.cp62c22 {
+    background-color: #ffffff;
+    padding: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cp62c22h {
+    color: #323f4b;
+    font-size: 12px;
+}
+
+.cp62c22p {
+    color: #888888;
+    font-size: 12px;
+}
+
+.cp62b2h {
+    font-size: 20px;
+}
+
+.cp62p1 {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.cp62p2 {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.cp62p3 {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.cp62btn {
+    margin-left: 100px;
+    height: 40px;
+}
+
+.cp71n1 {
+    height: 20vh;
+}
+
+.cp71h1 {
+    font-size: 15px;
+}
+
+.cp71i2 {
+    width: 20px;
+    margin-top: 10px;
+}
+
+.cp71n2 {
+
+    width: 100vw;
+}
+
+.cp71n2h {
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.cp71n2p {
+    font-size: 15px;
+    margin-left: 40px;
+}
+
+.cp71card2 {
+    background-color: #0967d219;
+    border-radius: 10px;
+}
+
+.cp71overall {
+    padding: 1px;
+}
+
+.cp71h3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.cp71green {
+    background-color: #3ebd93;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.cp71gp {
+    color: white;
+    font-size: 10px;
+}
+
+.cp71pink {
+    background-color: #e668a7;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.cp71pp {
+    color: white;
+    font-size: 10px;
+}
+
+.cp71violet {
+    background-color: #a368fc;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.cp71vp {
+    color: white;
+    font-size: 10px;
+}
+
+.cp71card3 {
+    padding: 5px;
+}
+
+.cp71card4 {
+    background-color: #e12d3919;
+    height: 25vh;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.cp71h4 {
+    font-size: 15px;
+}
+
+.cp71p4 {
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.cp71btn {
+    border-radius: 10px;
+}
+
+.cp72overall {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp72topimage {
+    width: 100vw;
+}
+
+.cp72content {
+    margin-left: 10px;
+}
+
+.cp72h1 {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.cp72p {
+    color: #9aa5b1;
+    font-size: 10px;
+}
+
+.cp72pics {
+    padding: 2px;
+    width: 10px;
+}
+
+.cp72img1 {
+    margin: 5px;
+
+
+}
+
+.cp72img2 {
+    margin: 5px;
+
+}
+
+.cp72img3 {
+    margin: 5px;
+
+}
+
+.cp72h2 {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.cp72h3 {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.cp72vids {
+    background-color: white;
+}
+
+.cp72vid1 {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.cp72vid2 {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.cp72vid3 {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.cp8background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp8carccr {
+    height: 10vh;
+    width: 65vw;
+    margin-left: 60px;
+}
+
+.cp8fn {
+    padding: 10px;
+    margin-top: 1px;
+}
+
+.cp8fnh {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.cp8fnb {
+    border-width: 0px;
+    border-radius: 10px;
+    color: #ff8348;
+    margin-left: 40px;
+    height: 21px;
+}
+
+.cp8fnp {
+    color: white;
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+.cp8smh {
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.cp8OM {
+    height: 15vh;
+}
+
+.cp91overall {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp91topcontainer {
+
+    background-size: cover;
+    height: 75vh;
+    width: 100vw;
+}
+
+.cp91h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cp91bottomcontainer {
+    border-style: solid;
+    padding: 10px;
+}
+
+.cp91btn {
+    margin-left: 70px;
+}
+
+.cp91tc {
+    background-size: cover;
+    height: 40vh;
+    width: 100vw;
+
+}
+
+.cp92overall1 {
+    background-color: white;
+}
+
+.cp92tc {
+
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
+
+.bottomcontainer1 {}
+
+.cp92h11 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.cp92p1 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.cp92btn {
+    text-align: center;
+    margin-left: 110px;
+}
+
+.cp92overall2 {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp92hp {
+    text-align: center;
+    padding: 5px;
+}
+
+.cp92f2 {
+    text-align: center;
+}
+
+.cp92f22 {
+    margin-left: 40px;
+}
+
+.cp92n22 {
+    margin-left: 40px;
+}
+
+.cp92h4 {
+    font-weight: bold;
+}
+
+.cp92btn2 {
+    margin-left: 200px;
+}
+
+.cp101overall {
+    background-color: #875fc0;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp101h1 {
+    color: white;
+    text-align: right;
+    font-size: 20px;
+
+}
+
+.cp101ques {
+    background-color: white;
+    padding: 10px;
+    height: 50vh;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.cp101h2 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.cp101p1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.cp101img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/coding-question-img.png");
+    background-size: cover;
+    height: 25vh;
+    width: 75vw;
+    border-radius: 5px;
+}
+
+.cp101options {
+    background-color: white;
+    padding: 10px;
+    height: 35vh;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.cp101button {
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #fbaf00;
+    color: white;
+    margin-left: 90px;
+}
+
+.cp101box {
+    border-style: solid;
+    font-size: 12px;
+    margin: 5px;
+    margin-left: 2px;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.cp101box2 {
+    border-style: solid;
+    font-size: 12px;
+    margin: 5px;
+    margin-left: 2px;
+    color: white;
+    background-color: #875fc0;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.cp101oual {
+    list-style-type: none;
+
+}
+
+.cp102overall1 {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp102ti1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 50vh;
+    width: 100vw;
+}
+
+.cp102f2 {
+    margin: 5px;
+    margin-left: 50px;
+}
+
+.cp102l2 {
+    margin: 5px;
+    margin-left: 50px;
+}
+
+.cp102btnpj {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/puri-jagannadh-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.cp102btntt {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tedx-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.cp102btnsg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/sadhguru-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.cp102btnop {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/on-purpose-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.cp102pjh {
+    color: #151765;
+    font-size: 15px;
+}
+
+.cp102tth {
+    color: #151765;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.cp102sgh {
+    color: #151765;
+    font-size: 15px;
+}
+
+.cp102oph {
+    color: #151765;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.cp102pjp {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.cp102ttp {
+    color: #5a7184;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.cp102sgp {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.cp102opp {
+    color: #5a7184;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.cp102tv {
+    background-color: #151765;
+    background-size: cover;
+    height: 25vh;
+    width: 100vw;
+    padding: 10px;
+}
+
+.cp102pji {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/puri-jagannadh-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.cp102tti {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tedx-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.cp102sgi {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/sadhguru-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.cp102opi {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/on-purpose-img.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+}
+
+.cp102hpa {
+    margin-left: 10px;
+}
+
+.cp102h1a {
+    color: white;
+    font-size: 10px;
+}
+
+.cp102h2a {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cp102p1a {
+    color: white;
+    font-size: 10px;
+}
+
+.cp102nw1 {
+    padding: 10px;
+}
+
+.cp102nw2 {
+    padding: 10px;
+}
+
+.cp102nw3 {
+    padding: 10px;
+}
+
+.cp102nw4 {
+    padding: 10px;
+}
+
+.cp102h3a {
+    font-size: 15px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.cp102p2a {
+    font-size: 12px;
+}
+
+.cp102p3a {
+    font-size: 8px;
+    color: #151765;
+}
+
+.cp102btn2 {
+    color: white;
+    background-color: #151765;
+    border-radius: 20px;
+    width: 75px;
+    margin-left: 250px;
+}
+
+.cp102btn3 {
+    color: white;
+    background-color: #151765;
+    border-radius: 20px;
+    width: 75px;
+    margin-left: 250px;
+}
+
+.cp102btn4 {
+    color: white;
+    background-color: #151765;
+    border-radius: 20px;
+    width: 75px;
+    margin-left: 250px;
+}
+
+.cp102btn5 {
+    color: white;
+    background-color: #151765;
+    border-radius: 20px;
+    width: 75px;
+    margin-left: 250px;
+}
+
+.cp11overall1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp11sm {
+    text-align: center;
+    padding: 120px;
+    color: white;
+}
+
+.cp11smh {
+    color: white;
+    font-family: "Bree Serif";
+
+}
+
+.cp11smp {
+    color: white;
+    font-family: "Bree Serif";
+
+}
+
+.cp11ni {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 200px;
+    width: 100vh;
+    background-size: cover;
+    padding: 15px;
+    margin-left: 30px;
+    margin-top: 150px;
+
+}
+
+.cp11nih {
+    color: white;
+    font-size: 50px;
+    padding: 50px;
+    margin-left: 10px;
+    font-family: "Bree Serif";
+}
+
+.cp11nip {
+    text-align: center;
+    font-weight: bold;
+}
+
+.cp11btn {
+    background-color: #8e97fd;
+    color: white;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+
+.cp11overall2 {
+    background-color: #03174c;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cp11ti {
+
+    background-size: cover;
+    height: 150px;
+    width: 75vw;
+    margin-left: 40px;
+}
+
+.cp11ni2h {
+    color: white;
+    font-size: 25px;
+    margin-left: 40px;
+    font-family: "Bree Serif";
+}
+
+.cp11ni2p1 {
+    color: #98a1bd;
+    font-size: 15px;
+    margin-left: 40px;
+    font-family: "Bree Serif";
+}
+
+.cp11ni2p2 {
+    color: #98a1bd;
+    font-size: 15px;
+    margin-left: 40px;
+    font-family: "Bree Serif";
+}
+
+.cp11Rel {
+    color: white;
+    font-size: 20px;
+    margin-left: 40px;
+    font-family: "Bree Serif";
+}
+
+.cp11s2 {
+    margin-left: 40px;
+
+}
+
+.cp11imc {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-clouds-img.png");
+    background-size: cover;
+    height: 20vh;
+    width: 40vw;
+}
+
+.cp11iss {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/sweet-sleep-img.png");
+    background-size: cover;
+    height: 20vh;
+    width: 40vw;
+    margin-left: 15px;
+}
+
+.cp11MCH {
+    color: white;
+    font-size: 13px;
+}
+
+.cp11MCP {
+    color: #98a1bd;
+    font-size: 10px;
+}
+
+.cp11SSH {
+    color: white;
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+.cp11SSP {
+    color: #98a1bd;
+    font-size: 10px;
+    margin-left: 15px;
+}
+
+.cp11btn2 {
+    background-color: #8e97fd;
+    border-radius: 20px;
+    color: white;
+    border-width: 0px;
+    width: 80px;
+    margin-left: 120px;
+}
+
+.cp12overall1 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cp12mh {
+    color: white;
+    font-size: 25px;
+}
+
+.cp12WOF {
+    padding: 10px;
+}
+
+.cp12WI1 {
+
+    background-size: cover;
+    height: 50vh;
+    width: 25vw;
+
+}
+
+.cp12WHP {
+    background-color: #e6f6ff;
+    height: 50vh;
+    width: 75vw;
+}
+
+.cp12WH1 {
+    color: #183b56;
+    font-size: 25px;
+}
+
+.cp12WH2 {
+    font-size: 20px;
+    color: black;
+}
+
+.cp12WP1 {
+    font-size: 15px;
+}
+
+.cp12btn {
+    height: 30px;
+    margin-left: 50px;
+}
+
+.cp12sh {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+.cp12MI1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/book-chetan-bhagat-img.png");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+
+}
+
+.cp12MH1 {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.cp12MP1 {
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.cp12btn2 {
+    font-size: 10px;
+    margin-left: 50px;
+}
+
+
+
+.cp12HI1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/harrypotter-img.png");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+}
+
+.cp12HH1 {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.cp12HP1 {
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.cp12btn3 {
+    font-size: 10px;
+    margin-left: 50px;
+}
+
+.cp12overall2 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cp12WI2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/book-apj-img.png");
+    background-size: cover;
+    height: 50vh;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.cp12WA {
+    text-align: center;
+}
+
+.cp12WH2 {
+    color: white;
+    text-align: center;
+}
+
+.cp12WPO2 {
+    color: white;
+    text-align: center;
+}
+
+.cp12WPT2 {
+    color: white;
+    font-size: 10px;
+    margin-left: 15px;
+
+}
+
+.cp12btn4 {
+    background-color: yellow;
+    color: black;
+    font-size: 15px;
+    height: 30px;
+    margin-left: 100px;
+}
+
+.cp12btnbn {
+    font-size: 15px;
+    height: 30px;
+}
+
+.cp12overall3 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cp12WI3 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/book-chetan-bhagat-img.png");
+    background-size: cover;
+    height: 50vh;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.cp12WH3 {
+    color: white;
+    text-align: center;
+}
+
+.cp12WPO3 {
+    color: white;
+    text-align: center;
+}
+
+.cp12WPT3 {
+    color: white;
+    font-size: 10px;
+    margin-left: 15px;
+
+}
+
+.cp12btn5 {
+    background-color: yellow;
+    color: black;
+    font-size: 15px;
+    height: 30px;
+    margin-left: 100px;
+}
+
+.cp12overall4 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cp12WI4 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/harrypotter-img.png");
+    background-size: cover;
+    height: 50vh;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.cp12WH4 {
+    color: white;
+    text-align: center;
+}
+
+.cp12WPO4 {
+    color: white;
+    text-align: center;
+}
+
+.cp12WPT4 {
+    color: white;
+    font-size: 10px;
+    margin-left: 15px;
+
+}
+
+.cp12btn6 {
+    background-color: yellow;
+    color: black;
+    font-size: 15px;
+    height: 30px;
+    margin-left: 100px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.ca1overall {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+}
+
+.ca1tc {
+    background-color: #894bca;
+    background-size: cover;
+    height: 40vh;
+}
+
+.ca1bc {
+    background-color: white;
+    background-size: cover;
+    height: 60vh;
+    padding: 10px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.ca1tch {
+    color: white;
+    font-size: 38px;
+    font-family: "Bree Serif";
+}
+
+.ca1ft {
+    height: 150px;
+    width: 150px;
+}
+
+.ca1ai {
+    height: 75px;
+    width: 75px;
+}
+
+.ca1ah {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ca1ap {
+    font-size: 12px;
+    color: #7b8794;
+}
+
+.ca1ahp {
+    margin-left: 15px;
+}
+
+.ca12overall {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.ca12w {
+    background-color: white;
+    background-size: cover;
+    height: 60vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+}
+
+.ca12c1 {
+    border-style: solid;
+    text-align: center;
+    margin: 15px;
+    border-width: 1px;
+}
+
+.ca12c2 {
+    border-style: solid;
+    margin: 15px;
+    text-align: center;
+    border-width: 1px;
+}
+
+.ca12c3 {
+    border-style: solid;
+    margin: 15px;
+    border-width: 1px;
+    text-align: center;
+}
+
+.ca12c4 {
+    border-style: solid;
+    width: 100px;
+    margin: 15px;
+    border-width: 1px;
+    text-align: center;
+}
+
+.ca12i1 {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
+
+.ca12i2 {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
+
+.ca12ch {
+    font-size: 20px;
+
+}
+
+.ca2page1 {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.ca2page2 {
+    background-color: #ffedcb;
+    background-size: cover;
+    height: 100vh;
+}
+
+.ca2h1 {
+    color: #132d84;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ca2i1 {
+    height: 250px;
+    width: 250px;
+}
+
+.ca2p1 {
+    text-align: center;
+    color: #132d84;
+    font-weight: bold;
+}
+
+.ca2btn1 {
+    margin-left: 120px;
+    background-color: #132d84;
+    color: white;
+}
+
+.ca2i12 {
+    height: 150px;
+    width: 150px;
+    margin-left: 90px;
+}
+
+.ca2c {
+    background-color: #ffe2ab;
+    margin: 10px;
+}
+
+.ca2ci {
+    height: 100px;
+    width: 100px;
+}
+
+.ca2ch {
+    font-size: 25px;
+}
+
+.ca2yt {
+    padding: 10px;
+}
+
+.ca2cp {
+    font-size: 15px;
+}
+
+.ca2chp {
+    margin-left: 10px;
+}
+
+.ca2btn2 {
+    margin-left: 120px;
+    background-color: #132d84;
+    color: white;
+}
+
+.ca2h12 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.ca3page1 {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.ca3page2 {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca3page3 {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca3page4 {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca3page5 {
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca3bc {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 40vh;
+    text-align: center;
+}
+
+.ca3h1 {
+    color: #f19116;
+}
+
+.ca3p1 {
+    color: #7b8794;
+}
+
+.ca3b1 {
+    background-color: #f19116;
+    color: white;
+    border-radius: 10px;
+}
+
+.ca3h2 {
+    color: #f19116;
+
+}
+
+.ca3btn2 {
+    background-color: #f19116;
+    color: white;
+
+}
+
+.ca3i1 {
+    height: 100px;
+    width: 50px;
+}
+
+.ca3i2 {
+    height: 100px;
+    width: 50px;
+}
+
+.ca3i3 {
+    height: 100px;
+    width: 50px;
+}
+
+.ca3cards {
+    padding: 10px;
+}
+
+.ca3hp21 {
+    background-color: white;
+    height: 100px;
+}
+
+.ca3hp2 {
+    background-color: white;
+    height: 100px;
+}
+
+.ca3hp3 {
+    background-color: white;
+    height: 100px;
+}
+
+
+
+.ca3rpi {
+    height: 30vh;
+    width: 100vh;
+}
+
+.ca3rpli {
+    height: 30px;
+    width: 30px;
+}
+
+.ca3hr {
+    color: white;
+}
+
+.ca3rh {
+    color: #f19116;
+    font-size: 30px;
+}
+
+.ca3dh {
+    color: #f19116;
+    font-size: 30px;
+}
+
+.ca3dp {
+    color: white;
+    font-size: 15px;
+}
+
+.ca3rpp {
+    color: white;
+}
+
+.ca3cb {
+    color: white;
+    background-color: #f19116;
+    margin-left: 100px;
+}
+
+.ca3bb1 {
+    color: white;
+    background-color: #f19116;
+}
+
+.ca4page1 {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+}
+
+.ca4page2 {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca4page3 {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca4page4 {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca4page5 {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.ca4th {
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.ca4tp {
+    color: white;
+    padding: 10px;
+}
+
+.ca4ch {
+    font-size: 20px;
+}
+
+.ca4c1 {
+    padding: 10px;
+}
+
+.ca4h2 {
+    color: white;
+
+}
+
+.ca4ul {
+    color: white;
+}
+
+.ca4btn2 {
+    background-color: #225db0;
+    color: white;
+    border-color: white;
+    margin-left: 120px;
+}
+
+.ca4btn2 {
+    background-color: #225db0;
+    color: white;
+    border-color: white;
+    margin-left: 120px;
+}
+
+.ca4btn3 {
+    background-color: #225db0;
+    color: white;
+    border-color: white;
+    margin-left: 120px;
+}
+
+.ca4btn4 {
+    background-color: #225db0;
+    color: white;
+    border-color: white;
+    margin-left: 120px;
+}
+
+.ca4btn5 {
+    background-color: #225db0;
+    color: white;
+    border-color: white;
+    margin-left: 120px;
+}
+
+.ca4t {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.ca4s {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.ca4h {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.ca4b {
+    background-color: white;
+    border-radius: 10px;
+}
